@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imccalculo/static/css/main.05c8c1f9.css",
+    "main.js": "/imccalculo/static/js/main.8e8ee30b.js",
+    "index.html": "/imccalculo/index.html",
+    "main.05c8c1f9.css.map": "/imccalculo/static/css/main.05c8c1f9.css.map",
+    "main.8e8ee30b.js.map": "/imccalculo/static/js/main.8e8ee30b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05c8c1f9.css",
+    "static/js/main.8e8ee30b.js"
+  ]
+}
